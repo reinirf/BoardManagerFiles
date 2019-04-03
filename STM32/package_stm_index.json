@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/reinirf/Arduino_Core_STM32/releases/download/1.5.0/STM32-1.5.0.tar.bz2",
           "archiveFileName": "STM32-1.5.0.tar.bz2",
-          "checksum": "SHA-256:09e2d0f2aa35e189331ac2ac13faca7ed926ff257a05f6520797ae2c57e5c78a",
-          "size": "18972644",
+          "checksum": "SHA-256:aa6bbe2f6d3a4f385ca70a970babf1b1c2d47b373f6524df567eb3c72390d182",
+          "size": "13101336",
           "boards": [
             {"name": "Nucleo H743ZI"}
           ],
@@ -49,28 +49,28 @@
               "size": "94146952",
               "checksum": "SHA-256:37a19a4b987aeb077c29bcc3854e9cc58210292ab08eb990c4ef945a59d86c0d",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
-              "url": "https://github.com/reinirf/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-windows.tar.bz2",
               "host": "i686-mingw32"
             },
             {
               "size": "88715718",
               "checksum": "SHA-256:0305683c9a7cd368c6cff891883979982f3917ae6edc38fd64f920c188ad4972",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
-              "url": "https://github.com/reinirf/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-mac.tar.bz2",
               "host": "x86_64-apple-darwin"
             },
             {
               "size": "83912523",
               "checksum": "SHA-256:81c5b83fd134a34a2f1dd1bd93ece223d4a511134932d41e5dd54a00943c0402",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
-              "url": "https://github.com/reinirf/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-linux64.tar.bz2",
               "host": "x86_64-pc-linux-gnu"
             },
             {
               "size": "82511589",
               "checksum": "SHA-256:8384a1200b770b34d3a31f41b4125bb9c7707fa69ecaf8b9f3afe9b2b01fa98c",
               "archiveFileName": "gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
-              "url": "https://github.com/reinirf/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
+              "url": "https://github.com/stm32duino/arm-none-eabi-gcc/releases/download/6-2017-q2-update/gcc-arm-none-eabi-6-2017-q2-update-linux32.tar.bz2",
               "host": "i686-pc-linux-gnu"
             }
           ]
@@ -82,28 +82,28 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/reinirf/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
+              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
               "archiveFileName": "CMSIS-5.3.0.tar.bz2",
               "checksum": "SHA-256:7f1a669fa23fc51532d807955aa32976b89cb14675189d07a5ce3652bc1c8e3c",
               "size": "42816664"
             },
             {
               "host": "x86_64-apple-darwin",
-              "url": "https://github.com/reinirf/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
+              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
               "archiveFileName": "CMSIS-5.3.0.tar.bz2",
               "checksum": "SHA-256:7f1a669fa23fc51532d807955aa32976b89cb14675189d07a5ce3652bc1c8e3c",
               "size": "42816664"
             },
             {
               "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/reinirf/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
+              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
               "archiveFileName": "CMSIS-5.3.0.tar.bz2",
               "checksum": "SHA-256:7f1a669fa23fc51532d807955aa32976b89cb14675189d07a5ce3652bc1c8e3c",
               "size": "42816664"
             },
             {
               "host": "i686-pc-linux-gnu",
-              "url": "https://github.com/reinirf/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
+              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.3.0/CMSIS-5.3.0.tar.bz2",
               "archiveFileName": "CMSIS-5.3.0.tar.bz2",
               "checksum": "SHA-256:7f1a669fa23fc51532d807955aa32976b89cb14675189d07a5ce3652bc1c8e3c",
               "size": "42816664"
