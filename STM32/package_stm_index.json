@@ -14,10 +14,10 @@
           "architecture": "stm32",
           "version": "1.5.0",
           "category": "Contributed",
-          "url": "https://github.com/reinirf/Arduino_Core_STM32/releases/download/1.5.0/STM32-1.5.0.tar.bz2",
-          "archiveFileName": "STM32-1.5.0.tar.bz2",
-          "checksum": "SHA-256:aa6bbe2f6d3a4f385ca70a970babf1b1c2d47b373f6524df567eb3c72390d182",
-          "size": "13101336",
+          "url": "https://github.com/reinirf/Arduino_Core_STM32/releases/download/1.5.0_rf/STM32-1.5.0_rf.tar.bz2",
+          "archiveFileName": "STM32-1.5.0_rf.tar.bz2",
+          "checksum": "SHA-256:3adb20297a773756a81907eeba26a1947995b4663cfe892674adcdeb13c3431a",
+          "size": "13098228",
           "boards": [
             {"name": "Nucleo H743ZI"}
           ],
